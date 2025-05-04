@@ -1,19 +1,15 @@
-# CoinCollector.Pygame.1
-
-a game with pygame from Schleiml with the tut from ClearCode
-
 # CoinCollector - A Pygame Adventure
 
-CoinCollector ist ein 2D-Spiel, das mit **Pygame** entwickelt wurde. Ziel des Spiels ist es, Münzen zu sammeln, Hindernissen auszuweichen und so lange wie möglich zu überleben.
+CoinCollector is a 2D game developed with **Pygame**. The goal of the game is to collect coins, avoid obstacles, and survive as long as possible.
 
 ## Features
 
-- **Münzen sammeln**: Sammle Münzen, um deinen Punktestand zu erhöhen.
-- **Hindernisse**: Weiche Feinden wie Schnecken und Fliegen aus.
-- **Animationen**: Spieler- und Feindanimationen für ein dynamisches Spielerlebnis.
-- **Highscore**: Verfolge deine Spielzeit und verbessere deinen Rekord.
+- **Collect Coins**: Gather coins to increase your score.
+- **Obstacles**: Avoid enemies like snails and flies.
+- **Animations**: Dynamic animations for the player and enemies.
+- **Highscore**: Track your playtime and beat your personal best.
 
-## Steuerung
+## Controls
 
-- **Springen**: Drücke die Leertaste (`Space`), um zu springen.
-- **Bewegen**: Nutze `A` (links) und `D` (rechts), um dich zu bewegen.
+- **Jump**: Press the spacebar (`Space`) to jump.
+- **Move**: Use `A` (left) and `D` (right) to move.
